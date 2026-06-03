@@ -3,6 +3,7 @@
 ## 📋 Descripción del proyecto
 
 Análisis exploratorio y estadístico del programa de fidelización de una aerolínea canadiense, a partir de dos datasets con información de actividad de vuelos e historial de clientes.
+
 El objetivo es identificar patrones de comportamiento, limpiar y preparar los datos y extraer conclusiones relevantes sobre el perfil y hábitos de los clientes del programa para demostrar mis conocimientos adquiridos en el módulo 3.
 
 ## 📂 Estructura del repositorio
