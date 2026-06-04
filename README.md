@@ -13,7 +13,7 @@ El objetivo es identificar patrones de comportamiento, limpiar y preparar los da
 │   ├── Customer Flight Activity.csv
 │   └── Customer Loyalty History.csv
 ├── notebooks/
-│   └── Examen_M3.ipynb
+│   └── ExamenM3.ipynb
 ├── README.md
 ```
 ## 🔍 Fases del análisis
